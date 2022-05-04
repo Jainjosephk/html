@@ -1,0 +1,124 @@
+.header{
+    padding: 25px;
+    width: 300px;
+    margin-top: 150px;
+    margin-left: 85px;
+    margin-bottom: -50px;
+
+}
+.caption{
+  
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 1px;
+    width: 450px;
+    margin-left: 140px;
+    margin-bottom: -34px;
+
+
+ }
+.fb-rightbox{    
+  padding-top: 0px;
+padding-left: 155px;
+padding-right: 100px;
+padding-bottom: 90px;
+background-color: #ffffff;
+margin-left: 909px;
+position: absolute;
+transform: translate(-50%, -50%);
+left: 0%;
+top: 48%;
+width: 20vmin;
+border-radius: 10px;
+box-shadow: 0 20px 40px rgba(2, 42, 83, 0.2);
+}
+
+.login{
+  background: rgb(77, 149, 242);
+  margin-left: -145px;
+  margin-top: 10px;
+  margin-right: -90px;
+  border-radius: 9px;
+  height: 48px;
+  vertical-align: middle;
+  text-align: center;
+  border-style: solid;
+  border-color: rgb(115, 144, 230);
+  color: rgb(238, 241, 238);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.forgot{
+margin-left: -150px;
+margin-top: 9px;
+margin-right: -122px;
+//width: 60vmin;
+height: 55px;
+vertical-align: middle;
+text-align: center;
+color: rgb(110, 135, 202);
+font-size: 15px;
+}
+
+.line{
+  position: absolute;
+  height: 1px;
+  background: rgb(206, 191, 191);
+  width: 55vmin;
+  margin-left: -145px;
+  margin-top: -17px;
+}
+
+  
+
+.new{
+background: #59c41b;
+margin-left: 82px;
+margin-top: 25px;
+margin-right: -8px;
+width: 30vmin;
+border-radius: 9px;
+height: 48px;
+border-style: solid;
+border-color: rgb(115, 144, 230);
+color:white;
+font-size: 16px;
+font-weight: bold;
+text-align: center;
+
+
+
+}
+.page{
+
+  font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  color: rgba(32, 26, 26, 0.342);
+  //width: 80vmin;
+  margin-left: 30px;
+  margin-top: 37px;
+  text-decoration: none;
+    
+}
+.page1{
+
+  font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  color: rgba(32, 26, 26, 0.342);
+  width: 80vmin;
+  margin-left: 140px;
+  margin-top: 25px;
+    
+}
+.footer{
+  margin-top: 240px;
+  margin-left: -600px;
+  
+}
